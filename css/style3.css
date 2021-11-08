@@ -1,0 +1,66 @@
+#container{
+  width: 700px;
+  text-align: justify;
+  background-color: #fff;
+  margin: auto;
+}
+body{
+  background-color: #cccccc;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 11px;
+}
+#content{
+  width: 700px;
+  height: 600px;
+  float: left;
+  background-color: #fff;
+}
+#header{
+  height: 50px;
+  background-color: #b0b0b0;
+}
+h1{
+  padding: 15px 0 8px 38px;
+  background-color: #b0b0b0;
+}
+h3{
+  padding: 0 0 0 12px;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  width: 700px;
+  text-transform: uppercase;
+}
+li{
+  display: inline;
+  float: left;
+}
+a{
+  padding: 0 17.3px 0 7px;
+  line-height: 25px;
+  margin: 0 -4px 0 0;
+  text-decoration: none;
+  color: #fff;
+  float: left;
+  display: block;
+  background-image: url(../images/nb.gif);
+  background-repeat: repeat-x;
+}
+a:visited{
+  color: #333;
+}
+a:hover{
+  color: #333;
+}
+.font1{
+  position: relative;
+  top: 10px; 
+  left: 20px;
+}
+.font2{
+  position: relative;
+  top: -93px ; 
+  left: 290px;
+}   
